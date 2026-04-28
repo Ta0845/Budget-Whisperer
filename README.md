@@ -16,9 +16,7 @@ Budget Whisperer is a beginner-friendly personal finance analysis project that h
 Budget-Whisperer/
 ├── data/          # Text files containing store and receipt data
 ├── notebooks/     # Jupyter notebooks for analysis
-├── src/           # Python source code
 ├── img/           # Images or flowchart screenshots
-├── docs/          # Documentation and logic flowchart
 ├── README.md
 ├── .gitignore
 └── requirements.txt
